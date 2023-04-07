@@ -5,4 +5,4 @@ As soon as the code is run, the game starts by generating a ball with a random v
         
 After the program was working in CodeSkulptor (an interactive, web-based Python programming environment that allows Python code to be run in a web browser), I ran into an issue in which player 2's paddle remained locked or unresponsive to the up, left, and right arrow keys.  Since I am having a similar issue with another program in CodeSkulptor and since this program was bug-free for a couple of months, I suspect the issue might be related to a browser update or CodeSkulptor update.
         
-Check out the code here in this repository or click https://py2.codeskulptor.org/#user49_Wz8romxtOp_3.py to run this program in CodeSkulptor.
+Check out the code here in this repository or click https://py2.codeskulptor.org/#user50_Wz8romxtOp_4.py to run this program in CodeSkulptor.
